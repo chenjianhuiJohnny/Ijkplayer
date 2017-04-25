@@ -32,6 +32,7 @@
     
 5，效果如下：
 
+![image](img/img-1-small.png)
 
 最后： 
       其他的就是Ijkplayer的使用api，这点就需要自己去看官方API了。
